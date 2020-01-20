@@ -1,3 +1,7 @@
+# YOURLS-PyAPI-Link-Creator
+# Created by Wesley Pyburn (TechNobo)
+# https://github.com/TcNobo/YOURLS-PyAPI-Link-Creator
+
 import urllib.request
 import json
 import urllib
